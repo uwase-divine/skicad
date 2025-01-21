@@ -1,2 +1,2 @@
-# skicad
+ skicad
 kicad project
